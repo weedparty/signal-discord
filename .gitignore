@@ -12,3 +12,4 @@ project/plugins/project/
 .idea/**/tasks.xml
 .idea/discord.xml
 *.DS_STORE
+config/config.json

@@ -1,2 +1,4 @@
-CLIENT_ID=hogehoge
-CLIENT_SECRET=hogehoge
+{
+  CLIENT_ID : "hoge",
+  CLIENT_SECRET : "hoge"
+}
