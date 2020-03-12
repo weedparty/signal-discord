@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: net.katsstuff:ackcord-voice_2.13:0.15.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.katsstuff/ackcord-voice_2.13/jars/ackcord-voice_2.13-0.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/net.katsstuff/ackcord-voice_2.13/srcs/ackcord-voice_2.13-0.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
