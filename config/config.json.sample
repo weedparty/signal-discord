@@ -1,4 +1,3 @@
 {
-  CLIENT_ID : "hoge",
-  CLIENT_SECRET : "hoge"
+  token : "hoge"
 }
